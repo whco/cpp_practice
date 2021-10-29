@@ -18,5 +18,8 @@
     <ClCompile Include="lotto_rank.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_and_number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
